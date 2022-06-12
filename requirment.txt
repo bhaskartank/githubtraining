@@ -3,3 +3,5 @@ email
 username
 type option 
 vibrent
+dark mode 
+video calls
