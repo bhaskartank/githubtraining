@@ -5,3 +5,9 @@ type option
 vibrent
 dark mode 
 video calls
+ 
+
+
+paymrnt option
+send money 
+recive money 
